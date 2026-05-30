@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 Working on AI, OCR & Robotics projects <br>👯 Open to collaborate on AI / ML projects , IoT projects, Computer Vision & Embedded Systems<br>🤝 I’m looking for help with Optimizing OCR accuracy for real-world images  <br>🌱 Learning AI/ML, VLSI & Backend Development <br>💬 Ask me about Python, OCR, Robotics, Video editing & motion graphic <br>⚡ Fun fact: I love turning complex engineering concepts into simple explanations
+ 🔭 Working on AI/ML, Deep Learning & Computer Vision projects <br>👯 Open to collaborate on AI/ML, MLOps pipelines & OpenCV-based projects<br>🤝 Looking for help with scaling ML models to production & optimizing deep learning performance  <br>🌱 Currently exploring LLMOps, Generative AI & advanced MLOps practices <br>💬 Ask me about Python, AI/ML, Deep Learning, OpenCV & MLOps <br>⚡ Fun fact: I love turning complex AI research papers into working code
 
 
 ## 🌐 Socials:
