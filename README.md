@@ -1,4 +1,4 @@
-# Hi, I'm Shashikant Sargam 👋
+# Hi, I'm Shashikant_ 👋
 
 B.Tech student in **Electronics & Communication Engineering (Specialization in Rail Engineering)** at **Gati Shakti Vishwavidyalaya**, Vadodara (2023–2027).
 I build AI/ML, computer vision, and edge/embedded systems, with a focus on applying AI to railway signalling and operations.
@@ -10,31 +10,6 @@ I build AI/ML, computer vision, and edge/embedded systems, with a focus on apply
 - 📟 **TinyML and edge AI** on ESP32-CAM, with quantized TensorFlow Lite models
 - 🚆 **Predictive maintenance** for railway systems using Explainable AI and Remaining Useful Life (RUL) prediction
 
-## 💼 Experience
-
-| Role | Organization | Period |
-|---|---|---|
-| Frauscher Academy Intern | Frauscher Sensor Technology India Pvt. Ltd., Bangalore | May – July 2026 |
-| Advanced Railway Signalling Trainee | IRISET, Indian Railways, Secunderabad | July 2026 |
-| Project Intern | Centre for Railway Information Systems (CRIS), Delhi | June – July 2025 |
-| Training Intern | Banaras Locomotive Works (BLW), Varanasi | July 2024 |
-
-## 🛠️ Featured Projects
-
-**🌿 Plant Disease Detection using TinyML & ESP32-CAM** (June 2026)
-Trained a CNN on PlantVillage (38 classes, 87K+ images) and reached about 91% validation accuracy. Quantized it to an 18 KB INT8 TensorFlow Lite model and deployed edge inference using ESP32-CAM, OpenCV, Edge Impulse, and Arduino IDE.
-
-**🚉 Intelligent Passenger Flow and Occupancy Counter** (March 2025)
-A people-counting system built with IR sensors, Embedded C/C++, and Python. It tracks entry and exit events to estimate live occupancy, with a monitoring dashboard for railway stations and public spaces.
-
-**🤖 RAG Assistant** (built during my Frauscher internship)
-An AI-powered assistant for document intelligence and knowledge retrieval, built with Python, FastAPI, LangChain, ChromaDB, and Ollama/Groq.
-
-## 🏆 Achievements
-
-- **AeroThan 2024 (Phase I):** ranked in the top 20 teams nationwide, competing with teams from IITs, NITs, and other institutes
-- **MachSpeed Madness:** won the team competition at the college level
-- **Robotics Domain Co-Coordinator, TechnoCrats Club:** organized a robot combat event at Tech Fest 2025 and conducted technical sessions on electronic components and RC car building
 
 ## 💻 Tech Stack
 
@@ -77,6 +52,35 @@ An AI-powered assistant for document intelligence and knowledge retrieval, built
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-0F4C81?style=for-the-badge)
+
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| Frauscher Academy Intern | Frauscher Sensor Technology India Pvt. Ltd., Bangalore | May – July 2026 |
+| Advanced Railway Signalling Trainee | IRISET, Indian Railways, Secunderabad | July 2026 |
+| Project Intern | Centre for Railway Information Systems (CRIS), Delhi | June – July 2025 |
+| Training Intern | Banaras Locomotive Works (BLW), Varanasi | July 2024 |
+
+
+## 🛠️ Featured Projects
+
+**🌿 Plant Disease Detection using TinyML & ESP32-CAM** (June 2026)
+Trained a CNN on PlantVillage (38 classes, 87K+ images) and reached about 91% validation accuracy. Quantized it to an 18 KB INT8 TensorFlow Lite model and deployed edge inference using ESP32-CAM, OpenCV, Edge Impulse, and Arduino IDE.
+
+**🚉 Intelligent Passenger Flow and Occupancy Counter** (March 2025)
+A people-counting system built with IR sensors, Embedded C/C++, and Python. It tracks entry and exit events to estimate live occupancy, with a monitoring dashboard for railway stations and public spaces.
+
+**🤖 RAG Assistant** (built during my Frauscher internship)
+An AI-powered assistant for document intelligence and knowledge retrieval, built with Python, FastAPI, LangChain, ChromaDB, and Ollama/Groq.
+
+## 🏆 Achievements
+
+- **AeroThan 2024 (Phase I):** ranked in the top 20 teams nationwide, competing with teams from IITs, NITs, and other institutes
+- **MachSpeed Madness:** won the team competition at the college level
+- **Robotics Domain Co-Coordinator, TechnoCrats Club:** organized a robot combat event at Tech Fest 2025 and conducted technical sessions on electronic components and RC car building
+
 
 ## 🤝 Let's Connect
 
